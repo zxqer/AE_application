@@ -1,0 +1,50 @@
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.filters
+*.vcxproj.user
+ipch/
+.vs/
+*.VC.db
+*.VC.VC.opendb
+
+# Build output directories
+Debug/
+Release/
+x64/
+x86/
+ARM/
+ARM64/
+
+# Compiled files
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.obj
+*.o
+*.pch
+*.res
+*.idb
+*.tlog
+
+# Logs and temporary files
+*.log
+*.cache
+Thumbs.db
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Results or data (optional: uncomment if you don't want to track)
+# results.csv
